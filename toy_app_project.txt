@@ -1,0 +1,164 @@
+<NotepadPlus>
+    <Project name="toy_app">
+        <Folder name=".bundle">
+            <File name=".bundle\config" />
+        </Folder>
+        <Folder name="app">
+            <Folder name="assets">
+                <Folder name="config">
+                    <File name="app\assets\config\manifest.js" />
+                </Folder>
+                <Folder name="images">
+                    <File name="app\assets\images\.keep" />
+                </Folder>
+                <Folder name="javascripts">
+                    <Folder name="channels">
+                        <File name="app\assets\javascripts\channels\.keep" />
+                    </Folder>
+                    <File name="app\assets\javascripts\application.js" />
+                    <File name="app\assets\javascripts\cable.js" />
+                </Folder>
+                <Folder name="stylesheets">
+                    <File name="app\assets\stylesheets\application.css" />
+                </Folder>
+            </Folder>
+            <Folder name="channels">
+                <Folder name="application_cable">
+                    <File name="app\channels\application_cable\channel.rb" />
+                    <File name="app\channels\application_cable\connection.rb" />
+                </Folder>
+            </Folder>
+            <Folder name="controllers">
+                <Folder name="concerns">
+                    <File name="app\controllers\concerns\.keep" />
+                </Folder>
+                <File name="app\controllers\application_controller.rb" />
+            </Folder>
+            <Folder name="helpers">
+                <File name="app\helpers\application_helper.rb" />
+            </Folder>
+            <Folder name="jobs">
+                <File name="app\jobs\application_job.rb" />
+            </Folder>
+            <Folder name="mailers">
+                <File name="app\mailers\application_mailer.rb" />
+            </Folder>
+            <Folder name="models">
+                <Folder name="concerns">
+                    <File name="app\models\concerns\.keep" />
+                </Folder>
+                <File name="app\models\application_record.rb" />
+            </Folder>
+            <Folder name="views">
+                <Folder name="layouts">
+                    <File name="app\views\layouts\application.html.erb" />
+                    <File name="app\views\layouts\mailer.html.erb" />
+                    <File name="app\views\layouts\mailer.text.erb" />
+                </Folder>
+            </Folder>
+        </Folder>
+        <Folder name="bin">
+            <File name="bin\bundle" />
+            <File name="bin\rails" />
+            <File name="bin\rake" />
+            <File name="bin\setup" />
+            <File name="bin\update" />
+            <File name="bin\yarn" />
+        </Folder>
+        <Folder name="config">
+            <Folder name="environments">
+                <File name="config\environments\development.rb" />
+                <File name="config\environments\production.rb" />
+                <File name="config\environments\test.rb" />
+            </Folder>
+            <Folder name="initializers">
+                <File name="config\initializers\application_controller_renderer.rb" />
+                <File name="config\initializers\assets.rb" />
+                <File name="config\initializers\backtrace_silencers.rb" />
+                <File name="config\initializers\cookies_serializer.rb" />
+                <File name="config\initializers\filter_parameter_logging.rb" />
+                <File name="config\initializers\inflections.rb" />
+                <File name="config\initializers\mime_types.rb" />
+                <File name="config\initializers\wrap_parameters.rb" />
+            </Folder>
+            <Folder name="locales">
+                <File name="config\locales\en.yml" />
+            </Folder>
+            <File name="config\application.rb" />
+            <File name="config\boot.rb" />
+            <File name="config\cable.yml" />
+            <File name="config\database.yml" />
+            <File name="config\environment.rb" />
+            <File name="config\puma.rb" />
+            <File name="config\routes.rb" />
+            <File name="config\secrets.yml" />
+        </Folder>
+        <Folder name="db">
+            <File name="db\seeds.rb" />
+        </Folder>
+        <Folder name="lib">
+            <Folder name="assets">
+                <File name="lib\assets\.keep" />
+            </Folder>
+            <Folder name="tasks">
+                <File name="lib\tasks\.keep" />
+            </Folder>
+        </Folder>
+        <Folder name="log">
+            <File name="log\.keep" />
+        </Folder>
+        <Folder name="public">
+            <File name="public\404.html" />
+            <File name="public\422.html" />
+            <File name="public\500.html" />
+            <File name="public\apple-touch-icon-precomposed.png" />
+            <File name="public\apple-touch-icon.png" />
+            <File name="public\favicon.ico" />
+            <File name="public\robots.txt" />
+        </Folder>
+        <Folder name="test">
+            <Folder name="controllers">
+                <File name="test\controllers\.keep" />
+            </Folder>
+            <Folder name="fixtures">
+                <Folder name="files">
+                    <File name="test\fixtures\files\.keep" />
+                </Folder>
+                <File name="test\fixtures\.keep" />
+            </Folder>
+            <Folder name="helpers">
+                <File name="test\helpers\.keep" />
+            </Folder>
+            <Folder name="integration">
+                <File name="test\integration\.keep" />
+            </Folder>
+            <Folder name="mailers">
+                <File name="test\mailers\.keep" />
+            </Folder>
+            <Folder name="models">
+                <File name="test\models\.keep" />
+            </Folder>
+            <Folder name="system">
+                <File name="test\system\.keep" />
+            </Folder>
+            <File name="test\application_system_test_case.rb" />
+            <File name="test\test_helper.rb" />
+        </Folder>
+        <Folder name="tmp">
+            <Folder name="cache">
+                <Folder name="assets" />
+            </Folder>
+            <File name="tmp\.keep" />
+        </Folder>
+        <Folder name="vendor">
+            <File name="vendor\.keep" />
+        </Folder>
+        <File name=".gitignore" />
+        <File name="config.ru" />
+        <File name="Gemfile" />
+        <File name="Gemfile.lock" />
+        <File name="package.json" />
+        <File name="Rakefile" />
+        <File name="README.md" />
+    </Project>
+</NotepadPlus>
